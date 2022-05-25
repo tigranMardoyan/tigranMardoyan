@@ -1,0 +1,65 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<breakfastManu data = "11/05/2022">  
+   <food id = "001">
+
+    <firstMeal>Omlet</firstMeal>
+    <description>Contains 3 eggs well srired</description>
+    <calories>599 kcal</calories>
+    <price>4 USD</price>
+
+   </food>
+
+    
+  <food id = "002">
+     
+    <firstMeal>Omlet and Becon</firstMeal>
+    <description>Contains 3 eggs well srired and Becon</description>
+    <calories>788 kcal</calories>
+    <price>7 USD</price>
+  
+  </food>
+
+  <food id = "003"> 
+
+    <firstMeal>Avocado Burger</firstMeal>
+    <description>Contains Avocato , Egg and Spinach</description>
+    <calories>569 kcal</calories>
+    <price>12 USD</price>
+  
+  </food>
+
+  <food id = "004">
+
+    <firstMeal>Omlet with Avocado</firstMeal>
+    <description>Contains 3 eggs well srired and Avocado</description>
+    <calories>599 kcal</calories>
+    <price>4 USD</price>
+  
+  </food>
+
+  <food id = "005">
+     
+     <firstMeal>Salad with Vegetables </firstMeal>
+    <description>Tomato , Cucumber, Carrot</description>
+    <calories>210 kcal</calories>
+    <price>4 USD</price>
+  
+  </food>
+
+<!--Case Sensitive-
+  <food>
+    <firstMeal>Omlet</firstMeal>
+    <description>Contains 3 eggs well srired</description>
+    <calories>599 kcal</calories>
+    <price>4 USD</price>
+  
+  
+  
+  </Food> -->
+
+</breakfastManu>
+
+
+
+
